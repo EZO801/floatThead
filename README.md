@@ -1,6 +1,7 @@
 jquery.floatThead 2.0.3
 =================
 [![woot](http://giant.gfycat.com/AnyGloriousAlpaca.gif "or just click")](http://mkoryak.github.io/floatThead/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FfloatThead.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FfloatThead?ref=badge_shield)
 
 # Documentation & Examples: http://mkoryak.github.io/floatThead/
 
@@ -107,3 +108,7 @@ Change Log
 License
 -------
 MIT
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FfloatThead.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FfloatThead?ref=badge_large)
